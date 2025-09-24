@@ -1,6 +1,8 @@
+pip==23.3.1
 Flask
 pandas
 scikit-learn
 joblib
 gunicorn
+
 numpy
